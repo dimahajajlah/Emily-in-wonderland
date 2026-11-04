@@ -58,7 +58,7 @@ Progress is saved in the browser's local storage on the device where the game is
 
 ## Files
 
-- `emily-almost-rescue.html` — complete playable game, including its CSS, JavaScript, and Canvas art
+- `emily-in-wonderland.html` — complete playable game, including its CSS, JavaScript, and Canvas art
 - `README.md` — game overview and instructions
 
 ## Playtest checklist
